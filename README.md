@@ -9,6 +9,8 @@ Migrating an existing codebase onto here, commit history will be lost, but oh we
 
 bit of a roadmap change: [hackmd](https://hackmd.io/94ZHVfvpRuS1zdplscum5Q)
 
+contracts deployed on ropsten testnet (when testing check that contract has/is gettting streamed enough daix): link tbd
+
 If you wanna join/chat, send me a message.
 
 
