@@ -10,4 +10,3 @@ bit of a roadmap change: [hackmd](https://hackmd.io/94ZVfvRuS1zplscum5Q)
 
 contracts deployed on ropsten testnet (when testing check that contract has/is gettting streamed enough daix): link tbd
 
-
